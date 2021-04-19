@@ -64,19 +64,19 @@ The links for the various models' checkpoints are available in the tables below.
 **FER2013** 
 Model | Accuracy (%)
 --- | ---
-[base](https://cnrsc-my.sharepoint.com/personal/fabrizio_falchi_cnr_it/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9jbnJzYy1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9mYWJyaXppb19mYWxjaGlfY25yX2l0L0V0bTRiRzFPTjJ0SHF0b202NjZtbWlNQmdPeU9fRnNEd1hJWmgySk9TRlhab3c%5FcnRpbWU9d3M2UVR0WUEyVWc&id=%2Fpersonal%2Ffabrizio%5Ffalchi%5Fcnr%5Fit%2FDocuments%2FSharedByLilnk%2Fpaper%5Fcheckpoints%2Ffer2013%2Fbase%2Fbest%5Fmodel%5Fckp%5F2%2Ept&parent=%2Fpersonal%2Ffabrizio%5Ffalchi%5Fcnr%5Fit%2FDocuments%2FSharedByLilnk%2Fpaper%5Fcheckpoints%2Ffer2013%2Fbase)           | 60.82 
-[CR](https://cnrsc-my.sharepoint.com/personal/fabrizio_falchi_cnr_it/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9jbnJzYy1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9mYWJyaXppb19mYWxjaGlfY25yX2l0L0V0bTRiRzFPTjJ0SHF0b202NjZtbWlNQmdPeU9fRnNEd1hJWmgySk9TRlhab3c%5FcnRpbWU9d3M2UVR0WUEyVWc&id=%2Fpersonal%2Ffabrizio%5Ffalchi%5Fcnr%5Fit%2FDocuments%2FSharedByLilnk%2Fpaper%5Fcheckpoints%2Ffer2013%2Four%2Dcr%2Fbest%5Fmodel%5Fckp%5F11%2Ept&parent=%2Fpersonal%2Ffabrizio%5Ffalchi%5Fcnr%5Fit%2FDocuments%2FSharedByLilnk%2Fpaper%5Fcheckpoints%2Ffer2013%2Four%2Dcr)             | 73.06
-[CR-Simiplified](https://cnrsc-my.sharepoint.com/personal/fabrizio_falchi_cnr_it/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9jbnJzYy1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9mYWJyaXppb19mYWxjaGlfY25yX2l0L0V0bTRiRzFPTjJ0SHF0b202NjZtbWlNQmdPeU9fRnNEd1hJWmgySk9TRlhab3c%5FcnRpbWU9d3M2UVR0WUEyVWc&id=%2Fpersonal%2Ffabrizio%5Ffalchi%5Fcnr%5Fit%2FDocuments%2FSharedByLilnk%2Fpaper%5Fcheckpoints%2Ffer2013%2Four%2Dbase%2Dft%2Fbest%5Fmodel%5Fckp%5F16%2Ept&parent=%2Fpersonal%2Ffabrizio%5Ffalchi%5Fcnr%5Fit%2FDocuments%2FSharedByLilnk%2Fpaper%5Fcheckpoints%2Ffer2013%2Four%2Dbase%2Dft) | 72.33
-[CR+AffWild2](https://cnrsc-my.sharepoint.com/personal/fabrizio_falchi_cnr_it/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9jbnJzYy1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9mYWJyaXppb19mYWxjaGlfY25yX2l0L0V0bTRiRzFPTjJ0SHF0b202NjZtbWlNQmdPeU9fRnNEd1hJWmgySk9TRlhab3c%5FcnRpbWU9d3M2UVR0WUEyVWc&id=%2Fpersonal%2Ffabrizio%5Ffalchi%5Fcnr%5Fit%2FDocuments%2FSharedByLilnk%2Fpaper%5Fcheckpoints%2Ffer2013%2Four%2Dcr%2Dft%2Fbest%5Fmodel%5Fckp%5F20%2Ept&parent=%2Fpersonal%2Ffabrizio%5Ffalchi%5Fcnr%5Fit%2FDocuments%2FSharedByLilnk%2Fpaper%5Fcheckpoints%2Ffer2013%2Four%2Dcr%2Dft)    | 73.45
+base           | 60.82 
+CR             | 73.06
+CR-Simiplified | 72.33
+CR+AffWild2    | 73.45
 
 
 **RAF-DB**
 Model | Overall Acc. (%) | Average Acc. (%)
 --- | --- | ---
-[base](https://cnrsc-my.sharepoint.com/personal/fabrizio_falchi_cnr_it/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9jbnJzYy1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9mYWJyaXppb19mYWxjaGlfY25yX2l0L0V0bTRiRzFPTjJ0SHF0b202NjZtbWlNQmdPeU9fRnNEd1hJWmgySk9TRlhab3c%5FcnRpbWU9d3M2UVR0WUEyVWc&id=%2Fpersonal%2Ffabrizio%5Ffalchi%5Fcnr%5Fit%2FDocuments%2FSharedByLilnk%2Fpaper%5Fcheckpoints%2Frafdb%2Fbase%2Fbest%5Fmodel%5Fckp%5F2%2Ept&parent=%2Fpersonal%2Ffabrizio%5Ffalchi%5Fcnr%5Fit%2FDocuments%2FSharedByLilnk%2Fpaper%5Fcheckpoints%2Frafdb%2Fbase)           | 77.09 | 65.39 ± .10
-[CR](https://cnrsc-my.sharepoint.com/personal/fabrizio_falchi_cnr_it/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9jbnJzYy1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9mYWJyaXppb19mYWxjaGlfY25yX2l0L0V0bTRiRzFPTjJ0SHF0b202NjZtbWlNQmdPeU9fRnNEd1hJWmgySk9TRlhab3c%5FcnRpbWU9d3M2UVR0WUEyVWc&id=%2Fpersonal%2Ffabrizio%5Ffalchi%5Fcnr%5Fit%2FDocuments%2FSharedByLilnk%2Fpaper%5Fcheckpoints%2Frafdb%2Four%2Dcr%2Fbest%5Fmodel%5Fckp%5F7%2Ept&parent=%2Fpersonal%2Ffabrizio%5Ffalchi%5Fcnr%5Fit%2FDocuments%2FSharedByLilnk%2Fpaper%5Fcheckpoints%2Frafdb%2Four%2Dcr)             | 88.43 | 81.90 ± .04
-[CR-Simplified](https://cnrsc-my.sharepoint.com/personal/fabrizio_falchi_cnr_it/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9jbnJzYy1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9mYWJyaXppb19mYWxjaGlfY25yX2l0L0V0bTRiRzFPTjJ0SHF0b202NjZtbWlNQmdPeU9fRnNEd1hJWmgySk9TRlhab3c%5FcnRpbWU9d3M2UVR0WUEyVWc&id=%2Fpersonal%2Ffabrizio%5Ffalchi%5Fcnr%5Fit%2FDocuments%2FSharedByLilnk%2Fpaper%5Fcheckpoints%2Frafdb%2Four%2Dbase%2Dft%2Fbest%5Fmodel%5Fckp%5F12%2Ept&parent=%2Fpersonal%2Ffabrizio%5Ffalchi%5Fcnr%5Fit%2FDocuments%2FSharedByLilnk%2Fpaper%5Fcheckpoints%2Frafdb%2Four%2Dbase%2Dft)  | 88.14 | 83.16 ± .03
-[CR+AffWild2](https://cnrsc-my.sharepoint.com/personal/fabrizio_falchi_cnr_it/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9jbnJzYy1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9mYWJyaXppb19mYWxjaGlfY25yX2l0L0V0bTRiRzFPTjJ0SHF0b202NjZtbWlNQmdPeU9fRnNEd1hJWmgySk9TRlhab3c%5FcnRpbWU9d3M2UVR0WUEyVWc&id=%2Fpersonal%2Ffabrizio%5Ffalchi%5Fcnr%5Fit%2FDocuments%2FSharedByLilnk%2Fpaper%5Fcheckpoints%2Frafdb%2Four%2Dcr%2Dft%2Fbest%5Fmodel%5Fckp%5F10%2Ept&parent=%2Fpersonal%2Ffabrizio%5Ffalchi%5Fcnr%5Fit%2FDocuments%2FSharedByLilnk%2Fpaper%5Fcheckpoints%2Frafdb%2Four%2Dcr%2Dft)    | 88.07 | 82.40 ± .04
+base           | 77.09 | 65.39 ± .10
+CR             | 88.43 | 81.90 ± .04
+CR-Simplified  | 88.14 | 83.16 ± .03
+CR+AffWild2    | 88.07 | 82.40 ± .04
 
 
 **OULU-Casia**
@@ -85,10 +85,10 @@ The linked folders cotain all the 10(-fold) models' checkpoints.
 
 Model | Acc. 10-fold avg.
 --- | --- 
-[base](https://cnrsc-my.sharepoint.com/personal/fabrizio_falchi_cnr_it/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9jbnJzYy1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9mYWJyaXppb19mYWxjaGlfY25yX2l0L0V0bTRiRzFPTjJ0SHF0b202NjZtbWlNQmdPeU9fRnNEd1hJWmgySk9TRlhab3c%5FcnRpbWU9d3M2UVR0WUEyVWc&id=%2Fpersonal%2Ffabrizio%5Ffalchi%5Fcnr%5Fit%2FDocuments%2FSharedByLilnk%2Fpaper%5Fcheckpoints%2Foulucasia%2Fbase)          | 59.84 ± 1.29
-[CR](https://cnrsc-my.sharepoint.com/personal/fabrizio_falchi_cnr_it/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9jbnJzYy1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9mYWJyaXppb19mYWxjaGlfY25yX2l0L0V0bTRiRzFPTjJ0SHF0b202NjZtbWlNQmdPeU9fRnNEd1hJWmgySk9TRlhab3c%5FcnRpbWU9d3M2UVR0WUEyVWc&id=%2Fpersonal%2Ffabrizio%5Ffalchi%5Fcnr%5Fit%2FDocuments%2FSharedByLilnk%2Fpaper%5Fcheckpoints%2Foulucasia%2Four%2Dcr)            | 98.40 ± .11
-[CR-Simplified](https://cnrsc-my.sharepoint.com/personal/fabrizio_falchi_cnr_it/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9jbnJzYy1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9mYWJyaXppb19mYWxjaGlfY25yX2l0L0V0bTRiRzFPTjJ0SHF0b202NjZtbWlNQmdPeU9fRnNEd1hJWmgySk9TRlhab3c%5FcnRpbWU9d3M2UVR0WUEyVWc&id=%2Fpersonal%2Ffabrizio%5Ffalchi%5Fcnr%5Fit%2FDocuments%2FSharedByLilnk%2Fpaper%5Fcheckpoints%2Foulucasia%2Four%2Dbase%2Dft) | 96.72 ± .24
-[CR+AffWild2](https://cnrsc-my.sharepoint.com/personal/fabrizio_falchi_cnr_it/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9jbnJzYy1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9mYWJyaXppb19mYWxjaGlfY25yX2l0L0V0bTRiRzFPTjJ0SHF0b202NjZtbWlNQmdPeU9fRnNEd1hJWmgySk9TRlhab3c%5FcnRpbWU9d3M2UVR0WUEyVWc&id=%2Fpersonal%2Ffabrizio%5Ffalchi%5Fcnr%5Fit%2FDocuments%2FSharedByLilnk%2Fpaper%5Fcheckpoints%2Foulucasia%2Four%2Dcr%2Dft)   | 98.95 ± .15 
+base          | 59.84 ± 1.29
+CR            | 98.40 ± .11
+CR-Simplified | 96.72 ± .24
+CR+AffWild2   | 98.95 ± .15 
 
 
 ### Dataset mean
