@@ -32,7 +32,7 @@ For more details loot at our paper: "[MAFER: a Multi-resolution Approach to Faci
 
 ## How to run the code
 
-Before to run the code, make sure that your system has the proper packages installed. You can have a look at the [requirements.txt](https://github.com/fvmassoli/multi-res-fer-in-the-wild/blob/master/requirements.txt) file.
+Before to run the code, make sure that your system has the proper packages installed. You can have a look at the [requirements.txt](https://github.com/fvmassoli/mafer-multires-facial-expression-recognition/blob/main/requirements.txt) file.
 
 
 ### Model Train
