@@ -229,7 +229,7 @@ if __name__ == '__main__':
     
     ## Training
     parser.add_argument('-df', '--dataset-folder', help='Path to main data folder')
-    parser.add_argument('-dn', '--dataset-name', choices=('oulucasia', 'expw'), default='fer2013', help='Dataset\'s name (default: fer2013)')
+    parser.add_argument('-dn', '--dataset-name', help='Dataset\'s name')
     parser.add_argument('-tc', '--training-config', choices=('finetune', 'trl'), default='finetune', help='Training configuration (default: finetune)')
     parser.add_argument('-e', '--epochs', type=int, default=1, help='Training epochs (default: 1)')
     parser.add_argument('-ba', '--batch_accumulation', type=int, default=4, help='Number of batch accumulation iterations (default: 4)')
