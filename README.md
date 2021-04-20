@@ -25,7 +25,7 @@ The confusion matrices below report the performance of our models on the Oulu-CA
 Below we report the t-SNE embedding of deep representations produced by the base model (leftmost) and by the models trained with a multi-resolution training. 
 
 <p align="center">
-<img src="https://github.com/fvmassoli/mafer-multires-facial-expression-recognition/blob/main/images/tsne_all.png"  alt="tsne" width="700" height="300">
+<img src="https://github.com/fvmassoli/mafer-multires-facial-expression-recognition/blob/main/images/tsne_all.png"  alt="tsne" width="1000" height="220">
 </p>
 
 For more details loot at our paper: "[MAFER: a Multi-resolution Approach to FacialExpression Recognition](...)"
