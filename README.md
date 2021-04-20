@@ -22,10 +22,10 @@ The confusion matrices below report the performance of our models on the Oulu-CA
 <img src="https://github.com/fvmassoli/multi-res-fer-in-the-wild/blob/master/images/confusion_matrices.png"  alt="confusion matrices" width="1000" height="220">
 </p>
 
-Below we report the t-SNE embedding of deep representations produced by the base model (left) and by the model trained with a multi-resolution training (right). 
+Below we report the t-SNE embedding of deep representations produced by the base model (leftmost) and by the models trained with a multi-resolution training. 
 
 <p align="center">
-<img src="https://github.com/fvmassoli/multi-res-fer-in-the-wild/blob/master/images/tsne.png"  alt="tsne" width="700" height="300">
+<img src="https://github.com/fvmassoli/multi-res-fer-in-the-wild/blob/master/images/tsne_all.png"  alt="tsne" width="700" height="300">
 </p>
 
 For more details loot at our paper: "[MAFER: a Multi-resolution Approach to FacialExpression Recognition](...)"
