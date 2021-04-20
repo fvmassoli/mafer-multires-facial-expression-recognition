@@ -13,19 +13,19 @@ We are researchers, not a software company, and have no personnel devoted to doc
 The image below shows the multi-resolution training phase that represents the first step of our learning procedure for FER.
 
 <p align="center">
-<img src="https://github.com/fvmassoli/multi-res-fer-in-the-wild/blob/master/images/model_simplified.png"  alt="model simplified" width="1000" height="160">
+<img src="https://github.com/fvmassoli/mafer-multires-facial-expression-recognition/blob/main/images/model_simplified.png"  alt="model simplified" width="1000" height="160">
 </p>
 
 The confusion matrices below report the performance of our models on the Oulu-CASIA dataset. The quoted numbers are the accuracies, 10-fold averaged, for each expression class.
 
 <p align="center">
-<img src="https://github.com/fvmassoli/multi-res-fer-in-the-wild/blob/master/images/confusion_matrices.png"  alt="confusion matrices" width="1000" height="220">
+<img src="https://github.com/fvmassoli/mafer-multires-facial-expression-recognition/blob/main/images/confusion_matrices.png"  alt="confusion matrices" width="1000" height="220">
 </p>
 
 Below we report the t-SNE embedding of deep representations produced by the base model (leftmost) and by the models trained with a multi-resolution training. 
 
 <p align="center">
-<img src="https://github.com/fvmassoli/multi-res-fer-in-the-wild/blob/master/images/tsne_all.png"  alt="tsne" width="700" height="300">
+<img src="https://github.com/fvmassoli/mafer-multires-facial-expression-recognition/blob/main/images/tsne_all.png"  alt="tsne" width="700" height="300">
 </p>
 
 For more details loot at our paper: "[MAFER: a Multi-resolution Approach to FacialExpression Recognition](...)"
