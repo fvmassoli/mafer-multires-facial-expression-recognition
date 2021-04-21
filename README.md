@@ -59,7 +59,7 @@ python test_model_oulu.py -bp <base_model_ckp> -ck <models_main_folder> -dn <dat
 
 ### Models Checkpoints
 
-The links to all the models' checkpoints are available [here](https://github.com/fvmassoli/mafer-multires-facial-expression-recognition/releases/tag/v1.0-fer2013-rafdb).
+All models' checkpoints are available [here](https://github.com/fvmassoli/mafer-multires-facial-expression-recognition/releases/tag/v1.0-fer2013-rafdb).
 
 **FER2013** 
 Model | Accuracy (%)
