@@ -103,12 +103,17 @@ OULU-Casia | [131.07828, 131.07828, 131.07828]
 
 
 ## Reference
-For all the details about the training procedure and the experimental results, please have a look at the [paper](...).
+For all the details about the training procedure and the experimental results, please have a look at the [paper](https://arxiv.org/abs/2105.02481).
 
 To cite our work, please use the following form
 
 ```
-
+@article{massoli2021mafer,
+  title={MAFER: a Multi-resolution Approach to Facial Expression Recognition},
+  author={Massoli, Fabio Valerio and Cafarelli, Donato and Gennaro, Claudio and Amato, Giuseppe and Falchi, Fabrizio},
+  journal={arXiv preprint arXiv:2105.02481},
+  year={2021}
+}
 ```
 
 ## Contacts
